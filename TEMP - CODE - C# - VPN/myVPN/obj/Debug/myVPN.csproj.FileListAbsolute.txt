@@ -1,0 +1,18 @@
+E:\Study Materials\Projects\myVPN\myVPN\bin\Debug\myVPN.exe.config
+E:\Study Materials\Projects\myVPN\myVPN\bin\Debug\myVPN.exe
+E:\Study Materials\Projects\myVPN\myVPN\bin\Debug\myVPN.pdb
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.Form1.resources
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.Properties.Resources.resources
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.csproj.GenerateResource.Cache
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.exe
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.pdb
+E:\Study Materials\Projects\myVPN\myVPN\obj\Debug\myVPN.csprojResolveAssemblyReference.cache
+E:\aco\myVPN-master\myVPN\bin\Debug\myVPN.exe.config
+E:\aco\myVPN-master\myVPN\bin\Debug\myVPN.exe
+E:\aco\myVPN-master\myVPN\bin\Debug\myVPN.pdb
+E:\aco\myVPN-master\myVPN\obj\Debug\myVPN.csprojAssemblyReference.cache
+E:\aco\myVPN-master\myVPN\obj\Debug\myVPN.Form1.resources
+E:\aco\myVPN-master\myVPN\obj\Debug\myVPN.Properties.Resources.resources
+E:\aco\myVPN-master\myVPN\obj\Debug\myVPN.csproj.GenerateResource.cache
+E:\aco\myVPN-master\myVPN\obj\Debug\myVPN.exe
+E:\aco\myVPN-master\myVPN\obj\Debug\myVPN.pdb
